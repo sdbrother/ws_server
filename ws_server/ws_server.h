@@ -18,6 +18,7 @@
 #include <syslog.h>
 #include <signal.h>
 
+
 using namespace std;
 using websocketpp::connection_hdl;
 using websocketpp::lib::placeholders::_1;
