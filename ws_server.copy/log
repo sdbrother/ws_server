@@ -1,0 +1,55 @@
+boost asio use: 
+epoll
+starting worker with PID: 16759 TCP PORT: 9002 ...
+on_tls_init
+on_tls_init
+on_tls_init
+New connection from IP ADDR: [::ffff:192.168.56.1]:62008
+on_close()
+on_tls_init
+on_tls_init
+New connection from IP ADDR: [::ffff:192.168.56.1]:62021
+on_close()
+on_tls_init
+on_tls_init
+New connection from IP ADDR: [::ffff:192.168.56.1]:62037
+on_close()
+on_tls_init
+on_tls_init
+New connection from IP ADDR: [::ffff:192.168.56.1]:62040
+on_close()
+on_tls_init
+on_tls_init
+New connection from IP ADDR: [::ffff:192.168.56.1]:62043
+on_close()
+on_tls_init
+on_tls_init
+New connection from IP ADDR: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:46:45	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:46:45	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:46:45	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:46:50	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:46:50	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:46:50	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:46:53	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:46:53	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:46:53	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:46:56	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:46:56	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:46:56	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:47:11	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:47:11	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:47:11	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:47:13	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:47:13	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:47:13	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:47:15	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:47:15	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:47:15	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:48:01	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:48:01	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:48:01	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:48:58	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:48:58	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+2015-Sep-03 15:48:58	0	107	5	user1	 IP: [::ffff:192.168.56.1]:62049
+stoping worker with PID 16759...

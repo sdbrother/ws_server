@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./ws_server > log
+tail -f log
