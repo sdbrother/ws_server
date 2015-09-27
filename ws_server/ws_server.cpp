@@ -638,6 +638,7 @@ void ws_server::on_timer_SQL_pop(websocketpp::lib::error_code const & ec){
                 SQLHDL_QUEUE.pop();
             }
         }
+
         mtx.unlock();            
     } 
     set_timer_SQL_pop();
